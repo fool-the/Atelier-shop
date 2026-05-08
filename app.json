@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Atelier",
+    "slug": "atelier-shop",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#0f0e17",
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#1a1828"
+      },
+      "package": "com.atelier.shop",
+      "permissions": []
+    },
+    "ios": {
+      "bundleIdentifier": "com.atelier.shop",
+      "supportsTablet": false
+    },
+    "plugins": [
+      [
+        "@react-native-async-storage/async-storage",
+        {
+          "exclude": []
+        }
+      ]
+    ]
+  }
+}
