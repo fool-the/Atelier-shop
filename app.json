@@ -2,11 +2,11 @@
   "expo": {
     "name": "Atelier",
     "slug":"atelier-rn",
-    ...
+    
     "splash": {
       "backgroundColor": "#0f0e17"
     },
-    ...
+    
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "dark",
